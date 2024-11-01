@@ -1,4 +1,6 @@
 http to https redirection for Apache
+
+adding data
 _____________________________________
 Open Apache configuration file : /etc/httpd/conf/httpd.conf
 Add a rewrite rule to the VirtualHost section as below
